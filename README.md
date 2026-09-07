@@ -68,8 +68,11 @@ MRSRdataset/
 │   ├──── 00000*.png           # Image frame
     └──── ...
 
+```
+
 # demo
 
+![deom](Factory.gif)
 
 # Cite
 
