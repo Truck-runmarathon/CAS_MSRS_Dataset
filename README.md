@@ -69,11 +69,12 @@ MRSRdataset/
     └──── ...
 
 # demo
-![demo](./Factory.gif)
+
 
 # Cite
 
 If you find this dataset useful for your research, please consider citing the paper
+
 ```
 @article{DU2026105387,
 title = {MSRS-SLAM: A real-time multi-UAV dense mapping system for efficient low-altitude remote sensing},
