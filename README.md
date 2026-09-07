@@ -69,6 +69,22 @@ MRSRdataset/
     └──── ...
 
 # demo
-![demo](/Factory.gif)
+![demo](./Factory.gif)
 
 # Cite
+
+If you find this dataset useful for your research, please consider citing the paper
+```
+@article{DU2026105387,
+title = {MSRS-SLAM: A real-time multi-UAV dense mapping system for efficient low-altitude remote sensing},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {151},
+pages = {105387},
+year = {2026},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2026.105387},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843226003031},
+author = {Bing Du and Xiaohan Liao and Huanyin Yue and Yuyu Zhang and Huping Ye and Jianli Liu},
+keywords = {Reconstruction, VSLAM, UAV remote sensing, Point cloud, Real-time mapping}}
+```
+
