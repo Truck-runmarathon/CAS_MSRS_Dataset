@@ -69,6 +69,6 @@ MRSRdataset/
     └──── ...
 
 # demo
-![demo](Factory.gif)
+![demo](/Factory.gif)
 
 # Cite
